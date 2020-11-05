@@ -1,4 +1,7 @@
 alabaster==0.7.12
+anaconda-client==1.7.2
+anaconda-navigator==1.9.12
+anaconda-project==0.8.3
 appdirs==1.4.4
 argh==0.26.2
 asgiref==3.2.10
@@ -38,7 +41,9 @@ decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.1
 dj-database-url==0.5.0
+dj-static==0.0.6
 Django==3.1.2
+django-toolbelt==0.0.1
 docutils==0.16
 entrypoints==0.3
 et-xmlfile==1.0.1
@@ -155,6 +160,7 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 sqlparse==0.4.1
+static3==0.7.0
 statsmodels==0.11.1
 tables==3.6.1
 tblib==1.6.0
